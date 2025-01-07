@@ -1,2 +1,2 @@
-# Pycharm-game
-Small gamedev project made using Pycharm framework
+# Turned-Based Game
+My first experience with game development, exploring the Pygame framework in the PyCharm IDE
